@@ -22,14 +22,15 @@ Experienced **Data Engineer** and **Tech Lead** with a proven track record in th
 ### **Senior Data Engineer** @ [LTIMindtree](https://www.ltimindtree.com/)
 - Built **ETL pipelines** and data migration jobs using **Python**, **PySpark**, **GCP**, **Apache Beam**, **Airflow**, **Azure Data Factory**, **Databricks**, **SQL**, and **MongoDB** for Procter & Gamble.
 
-### **Python Developer** @ [PWC](https://www.pwc.com/)
+### **Various Roles** @ [TCS](https://www.tcs.com/)
+#### **Python Developer** @ [PWC](https://www.pwc.com/)
 - Developed tools and web scraping scripts, and generated reports using **Python**, **Linux**, **Shell scripting**, **Batch scripting**, and **SQL**.
 
-### **GCP Data Engineer** @ [Ingram Micro](https://www.ingrammicro.com/)
+#### **GCP Data Engineer** @ [Ingram Micro](https://www.ingrammicro.com/)
 - Migrated data to **Google Cloud** using **Apache Beam**, **Python**, **SQL**, and **GCP**.
 - Created a tool to translate **Oracle DDLs** to **BigQuery DDL** using Python.
 
-### **Senior Software Developer** @ [Google](https://www.google.com/)
+#### **Senior Software Developer** @ [Google](https://www.google.com/)
 - Worked with **Google Document AI** to pre-train models and test performance.
 - Assisted clients with **data migration** and **data engineering** tasks using **Python**, **PySpark**, **Apache Beam**, **Airflow**, **Vertex AI**, **Document AI**, **SQL**, **Pandas**, **Kafka**, etc.
 
