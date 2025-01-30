@@ -9,7 +9,7 @@
 
 ## 🚀 **Profile Summary**
 
-Experienced **Data Engineer** and **Tech Lead** with a proven track record in the IT and services industry. Proficient in **Python**, **PySpark**, and **Google Cloud Platform (GCP)**, with extensive expertise in **ETL pipeline development**, **data migration**, and **machine learning model pre-training**. Known for exceptional problem-solving skills, teamwork, and communication abilities.
+**Data Engineer** and **Tech Lead** with a proven track record in the IT and services industry. Proficient in **Python**, **PySpark**, and **Google Cloud Platform (GCP)**, with extensive expertise in **ETL pipeline development**, **data migration**, and **machine learning model pre-training**. Known for exceptional problem-solving skills, teamwork, and communication abilities.
 
 ---
 
